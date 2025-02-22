@@ -1,0 +1,39 @@
+{
+  "is-c3-addon": true,
+  "sdk-version": 2,
+  "min-construct-version": "r401",
+  "type": "plugin",
+  "name": "Playfab API",
+  "id": "PlayFabAPI",
+  "version": "0.1.0.0",
+  "author": "Zalance Inc.",
+  "website": "https://zalance.net/playfab-downloads/",
+  "documentation": "https://docs.zalance.net/",
+  "description": "A Playfab API addon for Construct 3. This includes support for PlayFab authentication and economy.",
+  "editor-scripts": [
+    "plugin.js",
+    "type.js",
+    "instance.js"
+  ],
+  "file-list": [
+    "c3runtime/main.js",
+    "c3runtime/plugin.js",
+    "c3runtime/type.js",
+    "c3runtime/instance.js",
+    "c3runtime/domSide.js",
+    "c3runtime/conditions.js",
+    "c3runtime/actions.js",
+    "c3runtime/expressions.js",
+    "c3runtime/http.js",
+    "c3runtime/inMemoryTokenManager.js",
+    "c3runtime/authentication.js",
+    "c3runtime/inventory.js",
+    "lang/en-US.json",
+    "aces.json",
+    "addon.json",
+    "icon.svg",
+    "instance.js",
+    "plugin.js",
+    "type.js"
+  ]
+}
